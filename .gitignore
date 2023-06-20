@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Topics/Introduction to Kotlin/Hello, Kotlin/out/
+/Topics/Introduction to Kotlin/Hello, Kotlin/out/production/classes/
+/Topics/Overview of the basic program/Theory/build/
+/Topics/Overview of the basic program/Theory/out/
+/Topics/Overview of the basic program/Theory/out/production/classes/
+/Topics/Overview of the basic program/Your name/out/
+/Topics/Overview of the basic program/Your name/out/production/classes/
